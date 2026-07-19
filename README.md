@@ -237,4 +237,4 @@ PaymentService/
 
 **Zenith Pay Platform is a completely redesigned and implemented enterprise payment architecture practice based on \.NET 10, DDD, microservices and cloud\-native technology system, referencing the business model of AgPayPlus aggregated payment\. Adopting production\-grade gateway security architecture with YARP as unified traffic and security entrance and OpenIddict for exclusive token issuance, the project combines Consul service governance, Quartz\.NET task scheduling and self\-developed Zenith\.Extensions general components as standardized technical foundations, exploring modern \.NET enterprise distributed system security design, domain modeling and production\-level landing specifications\.**
 
-> （注：部分内容可能由 AI 生成）
+
