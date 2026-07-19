@@ -6,7 +6,7 @@ DDD + CQRS Cloud Native Payment Microservice Platform
 
 ## System Architecture
 Full interactive architecture diagram (with service flow & component description):
-[View Complete Architecture Diagram](https://jackbeyant787878.github.io/Zentin.Payment/docs/index.html)
+[View Complete Architecture Diagram](https://jackbeyant787878.github.io/Zentin.Payment/index.html)
 
 ### Quick Preview
 ![Architecture Screenshot]
