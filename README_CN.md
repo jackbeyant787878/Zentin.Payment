@@ -231,4 +231,3 @@ PaymentService/
 
 **Zenith Pay Platform 是一个参考 AgPayPlus 聚合支付业务模型，基于 \.NET 10、DDD、微服务和云原生技术体系从零全新设计实现的企业级支付架构实践项目。项目****采用生产级网关安全架构，以 YARP 网关为流量与安全统一入口、OpenIddict 仅负责令牌颁发、搭配 ****Consul 服务治理、Quartz\.NET 任务调度及自研 Zenith\.Extensions 通用组件为标准化技术底座，完整探索现代 \.NET 企业级大型分布式系统的****安全****设计、领域建模与生产级落地规范。**
 
-> （注：部分内容可能由 AI 生成）
