@@ -6,7 +6,8 @@
 
 **Quick Preview**
 
-\!\[Architecture Screenshot\]\(https://your\-image\-cdn\-url/architecture\-preview\.png\)
+\!\[Architecture Screenshot\]\(<img width="1562" height="940" alt="image" src="https://github.com/user-attachments/assets/421f206b-d343-4205-b5f6-022650d3fd75" />
+)
 
 ## 2\. Project Background
 
