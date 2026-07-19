@@ -6,7 +6,8 @@
 
 **架构图快速预览**
 
-\!\[Architecture Screenshot\]\(https://your\-image\-cdn\-url/architecture\-preview\.png\)
+\!\[Architecture Screenshot\]\(<img width="1742" height="931" alt="image" src="https://github.com/user-attachments/assets/4c169a2b-4ed1-409e-ac28-9ef90d644485" />
+)
 
 ## 1\. 项目背景
 
